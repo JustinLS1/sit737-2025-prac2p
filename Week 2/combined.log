@@ -1,0 +1,32 @@
+{"level":"error","message":"n1 is incorrectly defined","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 13 received for addition","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 13 received for addition","service":"add-service"}
+{"level":"info","message":"Parameters 15 and 13 received for addition","service":"add-service"}
+{"level":"error","message":"Invalid operation","service":"add-service"}
+{"level":"info","message":"Operation: add, Numbers: 5, 3, Result: 8","service":"add-service"}
+{"level":"info","message":"Operation: add, Numbers: 201, 23, Result: 224","service":"add-service"}
+{"level":"info","message":"Operation: subtract, Numbers: 201, 23, Result: 178","service":"add-service"}
+{"level":"info","message":"Operation: multiply, Numbers: 201, 23, Result: 4623","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 23, Result: 8.73913043478261","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 23, Result: 8.73913043478261","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 23, Result: 8.73913043478261","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 23, Result: 8.73913043478261","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 23, Result: 8.73913043478261","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 23, Result: 8.73913043478261","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 3, Result: 67","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 3, Result: 67","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 3, Result: 67","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 3, Result: 67","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 3, Result: 67","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 3, Result: 67","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 3, Result: 67","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 3, Result: 67","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 3, Result: 67","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 3, Result: 67","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 3, Result: 67","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 3, Result: 67","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 3, Result: 67","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 4, Result: 50.25","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 4, Result: 50.25","service":"add-service"}
+{"level":"info","message":"Operation: divide, Numbers: 201, 4, Result: 50.25","service":"add-service"}
+{"level":"info","message":"Operation: multiply, Numbers: 201, 4, Result: 804","service":"add-service"}
